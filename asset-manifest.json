@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59ddaf6c.css",
+    "main.js": "/static/js/main.f9a01ae0.js",
+    "static/js/787.d43e6ab2.chunk.js": "/static/js/787.d43e6ab2.chunk.js",
+    "static/media/calender.png": "/static/media/calender.274aeddf319e4fcd15fa.png",
+    "static/media/treespl.jpg": "/static/media/treespl.d471642438cea2b7156c.jpg",
+    "static/media/rocket2.png": "/static/media/rocket2.58230222457a306cb4b6.png",
+    "static/media/cultural.jpg": "/static/media/cultural.e6629243f73865bc4dce.jpg",
+    "static/media/footballteam.jpg": "/static/media/footballteam.0dc8cb30e99f251e8a3c.jpg",
+    "static/media/food1.jpg": "/static/media/food1.b8ecb54aeca04b2989ed.jpg",
+    "static/media/proton.jpg": "/static/media/proton.170a1a5fb468cdaa91bf.jpg",
+    "static/media/gate.jpg": "/static/media/gate.7d7f93f100c6df9327da.jpg",
+    "static/media/vck.jpg": "/static/media/vck.442b474727c414bb3b85.jpg",
+    "static/media/facemjpg.jpg": "/static/media/facemjpg.81f308ee614ce0eeb505.jpg",
+    "static/media/smoke.png": "/static/media/smoke.364e09f3ed5576042e3c.png",
+    "static/media/bluesky.jpeg": "/static/media/bluesky.db6e1760e5e427f3c8aa.jpeg",
+    "static/media/purplelogo.png": "/static/media/purplelogo.b426d97de12d4dab1c06.png",
+    "static/media/vec2.jpg": "/static/media/vec2.75a440c18186e6b3bfc7.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.59ddaf6c.css.map": "/static/css/main.59ddaf6c.css.map",
+    "main.f9a01ae0.js.map": "/static/js/main.f9a01ae0.js.map",
+    "787.d43e6ab2.chunk.js.map": "/static/js/787.d43e6ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ddaf6c.css",
+    "static/js/main.f9a01ae0.js"
+  ]
+}
